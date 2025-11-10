@@ -1,1 +1,176 @@
-{}
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "password": "123456"
+  },
+  {
+    "id": "1759145197945",
+    "name": "Nikhil",
+    "email": "nikhil@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759146743848",
+    "name": "viraj",
+    "email": "viraj@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759147601220",
+    "name": "sam",
+    "email": "sam@gmail.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": "1759149287744",
+    "name": "abhi",
+    "email": "abhi@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759150863221",
+    "name": "Dipak ",
+    "email": "dipak@gmail.com",
+    "password": "0000",
+    "role": "Admin"
+  },
+  {
+    "id": "1759151025664",
+    "name": "maya",
+    "email": "maya@gmail.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": "1759161450204",
+    "name": "virat",
+    "email": "virat@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759230905024",
+    "name": "om",
+    "email": "om@gmail.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": "1759248155337",
+    "name": "Nikhil Hulawale",
+    "email": "nikhil18@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759645641586",
+    "name": "Nikhil Hulawale",
+    "email": "nikhil@18gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759667693628",
+    "name": "niks",
+    "email": "sam22@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759669734341",
+    "name": "Maya Jagadale",
+    "email": "maya1818@gmail.com",
+    "password": "123",
+    "role": "Admin"
+  },
+  {
+    "id": "1759669805870",
+    "name": "Nikhil Hulawale",
+    "email": "nikhilhulawale1818@gmail.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": "1759670124989",
+    "name": "Sunil Dhokale",
+    "email": "sunild@gmail.com",
+    "password": "1212",
+    "role": "Admin"
+  },
+  {
+    "id": "1759670200162",
+    "name": "sunild",
+    "email": "sunild11@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759670425609",
+    "name": "veer",
+    "email": "veer@gmail.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": "1759670584568",
+    "name": "veer ",
+    "email": "veer@12gmail.com",
+    "password": "1212",
+    "role": "Admin"
+  },
+  {
+    "id": "1759670722304",
+    "name": "veer",
+    "email": "veer@14gmail.com",
+    "password": "1212",
+    "role": "Admin"
+  },
+  {
+    "id": "1759671050591",
+    "name": "meena",
+    "email": "abc@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "id": "1759671620860",
+    "name": "nikhil",
+    "email": "nikhil22@gmail.com",
+    "password": "2222",
+    "role": "Admin"
+  },
+  {
+    "id": "1761671696273",
+    "name": "sanruddhi raskar",
+    "email": "samruddhi18@gmail.com",
+    "password": "123456",
+    "role": "Admin"
+  },
+  {
+    "id": "1762330587971",
+    "name": "niks",
+    "email": "abc21@gmail.com",
+    "password": "121221211211",
+    "role": "Admin"
+  },
+  {
+    "id": "1762506553984",
+    "name": "23456789",
+    "email": "nikhil11@gmail.com",
+    "password": "12345689",
+    "role": "Admin"
+  },
+  {
+    "id": "1762506806558",
+    "name": "Ravi Kumar",
+    "email": "ravi@gmail.com",
+    "password": "Ravi@123",
+    "role": "Admin"
+  }
+]
